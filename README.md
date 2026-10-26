@@ -1,16 +1,24 @@
-## Hi there 👋
 
-<!--
-**abhinavtech18/abhinavtech18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [ABHINAV] 👋
 
-Here are some ideas to get you started:
+🎓 First-Year Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🌱 Currently learning C++ and Data Structures & Algorithms
+- 💻 Practicing problem-solving and writing clean code
+- 🤖 Interested in Artificial Intelligence and Machine Learning
+- 🎯 Goal: Build strong programming fundamentals and real-world projects
+
+## Skills
+- Languages: C++, Python, C
+- Core Concepts: Basics of Programming, Arrays (learning)
+- Tools: Git, GitHub
+
+## My Projects
+- [ ] C++ Practice Programs
+- [ ] DSA Problem Solutions
+- [ ] Python Mini Projects
+- [ ] AI/ML Projects
+
+## Connect With Me
+- LinkedIn: [www.linkedin.com/in/abhinav-tanwar-332916421]
